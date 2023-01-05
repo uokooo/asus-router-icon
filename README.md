@@ -3,6 +3,7 @@
 - 背景色区分设备种类
 - 修改[Main.psd](Documents/Main.psd)，创建你的router icon
 - Font Name:汉仪明禅刻本
+- PS Plug-in：BBTools Shadow/Shadowify
 ## Sample：
 ![Untitled](https://user-images.githubusercontent.com/53036366/210690136-55833a9c-759c-4b67-9fc9-10fe8e86a5ad.png)
 ## ScreenShot：
